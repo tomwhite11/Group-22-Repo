@@ -10,3 +10,5 @@ y = np.array([dfc.size,dfd.size-dfc.size])
 
 plt.pie(y)
 plt.show()
+
+dfc.values
